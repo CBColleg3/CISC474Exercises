@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "exercise4",
+  "main": "app.js",
+  "scripts": {
+    "test": "exercise4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Christopher Bennett",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
